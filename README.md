@@ -1,6 +1,6 @@
 # Hello there; welcome 👋🏾
 
-  [![Linkedin Badge](https://img.shields.io/badge/-iambolajiayo-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iambolajiayo)](https://www.linkedin.com/in/emem-ekong-254985240/) [![Twitter Badge](https://img.shields.io/badge/-@iambolajiayo-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/iambolajiayo)](https://twitter.com/airmyekong)
+  [![Linkedin Badge](https://img.shields.io/badge/-iamememekong-green?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iamememelong)](https://www.linkedin.com/in/emem-ekong-254985240/) [![Twitter Badge](https://img.shields.io/badge/-@iamememekong-green?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/iamememekong)](https://twitter.com/airmyekong)
 
 I'm a PHP/Laravel engineer currently on internship at Techroom Services. I'm passionate about learning and sharing knowledge. I create technical content (on my [Blog](https://airmyekong.hashnode.dev/).
 
