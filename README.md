@@ -15,7 +15,9 @@ I'm a PHP/Laravel engineer currently on internship at Techroom Services. I'm pas
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ememekong001&show_icons=true&include_all_commits=true&hide_border=true" alt="Airmy's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ememekong001&langs_count=8&layout=compact&hide_border=true" alt="Airmy's GitHub stats" /> |
+[![Emem Ekong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ememekong001&count_private=true&show_icons=true&theme=radical)](https://github.com/Ememekong001/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ememekong001)](https://github.com/anuraghazra/github-readme-stats)
+<!-- | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ememekong001&show_icons=true&include_all_commits=true&hide_border=true" alt="Airmy's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ememekong001&langs_count=8&layout=compact&hide_border=true" alt="Airmy's GitHub stats" /> | -->
 | ------------- | ------------- |
 
 <!-- <img src="https://camo.githubusercontent.com/163c78e36b97c7eff8bc12458b9ace6741cf98ec3f991c3606e4db7b80df3948/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4461666964692d646576267468656d653d6d6f6e6f6b61692673686f775f69636f6e733d7472756526686964655f626f726465723d7472756526636f756e745f707269766174653d74727565" alt="Airmy's GitHub Stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Ememekong001&amp;theme=monokai&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" style="max-width: 100%;">
